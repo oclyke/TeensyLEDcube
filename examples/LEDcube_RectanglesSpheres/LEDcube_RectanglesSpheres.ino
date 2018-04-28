@@ -1,8 +1,7 @@
 /* 
 
 Demo of the LED_cube.h library.
-Creates a "game of life" in which LEDs are randomly "born" and "eaten." You can observe an interesting phenomenon 
-of natural equilibrium by changing how many leds are born or eaten in each cycle.
+Creates two rectangular prisms using both a two-corner method and a center and extent method. Then creates one of 6 possible sphere sizes.
 
 Owen Lyke: April 2018
 

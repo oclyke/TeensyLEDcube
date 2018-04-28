@@ -1,8 +1,7 @@
 /* 
 
 Demo of the LED_cube.h library.
-Creates a "game of life" in which LEDs are randomly "born" and "eaten." You can observe an interesting phenomenon 
-of natural equilibrium by changing how many leds are born or eaten in each cycle.
+Fills out the XY, XZ, and YZ planes, then "slides" them back and forth
 
 Owen Lyke: April 2018
 
