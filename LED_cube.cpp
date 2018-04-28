@@ -7,7 +7,8 @@ Written by Owen Lyke
 
 Updated: April 2018
 
-TO DO:
+Description:
+
 
 
 */
@@ -19,12 +20,6 @@ Obligatory includes
 -----------------------------------
 */
 #include "LED_cube.h"	
-
-
-
-
-
-
 
 
 
